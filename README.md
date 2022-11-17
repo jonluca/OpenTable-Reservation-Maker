@@ -1,7 +1,7 @@
 # OpenTable-Reservation-Maker
 
 The code that corresponds
-with [this blog post on writing a script to make reservations for me on opentable](https://blog.jonlu.ca/posts/opentable)
+with [this blog post on writing a script to make reservations for me on opentable](https://blog.jonlu.ca/wip/2021-12-03-opentable)
 
 ## Getting started
 
